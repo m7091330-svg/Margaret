@@ -1,2 +1,2 @@
-# Margaret
+# Margaret Njeri 
 Learning computer programming 
